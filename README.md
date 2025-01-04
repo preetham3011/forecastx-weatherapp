@@ -2,7 +2,7 @@
 
 ForecastX is a sleek and modern weather application that provides real-time weather information and forecasts. With its intuitive interface and comprehensive data display, users can easily navigate their day with precision forecasts.
 
-![ForecastX App](assets/weather-app-preview.png)
+![ForecastX App](assets/forecastx-preview.png)
 
 ## 🌟 Features
 
